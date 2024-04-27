@@ -619,8 +619,8 @@ CREATE TABLE `diplomes` (
 --
 
 INSERT INTO `diplomes` (`codeDiplome`, `couleurFond`, `couleurPolice`, `nom`, `dateModif`, `dateCreation`, `deleted`, `codeProprietaire`, `alias`, `commentaire`, `identifiant`, `codeComposante`, `codeNiveau`, `codeResponsable`, `typePublic`, `public`, `codeSuper`, `email`, `reference`, `referencePonderee`) VALUES
-(1, 8421631, 0, 'DOCE', '2024-04-18 17:26:31', '2024-04-08 17:11:28', 0, 0, 'SMI', '', 'SMI', 1, 0, 2, 1, 1, 0, '', 0, 0),
-(2, 16777088, 0, 'LALESONSE', '2024-04-13 20:05:33', '2024-04-08 17:13:00', 0, 0, 'SMI SMI', '', 'SMI SMI', 1, 1, 2, 1, 1, 0, '', 0, 0);
+(1, 8421631, 0, 'Deug', '2024-04-18 17:26:31', '2024-04-08 17:11:28', 0, 0, 'SMI', '', 'SMI', 1, 0, 2, 1, 1, 0, '', 0, 0),
+(2, 16777088, 0, 'Licence', '2024-04-13 20:05:33', '2024-04-08 17:13:00', 0, 0, 'SMI SMI', '', 'SMI SMI', 1, 1, 2, 1, 1, 0, '', 0, 0);
 
 -- --------------------------------------------------------
 
